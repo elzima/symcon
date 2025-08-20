@@ -4,8 +4,8 @@
         { "type": "CheckBox", "name": "backup_aktiv", "caption": "Backup aktivieren" },
         {
             "type": "Button",
-            "caption": "Symcon",
-            "onClick": "SF_CreateBackup();"
+            "caption": "Erstelle Backup",
+            "onClick": "SF_CreateBackup($id);"
         }
     ],
     "status": [
