@@ -1,0 +1,12 @@
+{
+    "id": "{EDF7B726-CB59-F6B9-2B59-D87BD84BE45F}",
+    "name": "Wartung",
+    "type": 0,
+    "vendor": "Smart Facility GmbH",
+    "aliases": [],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "SF",
+    "url": ""
+}
