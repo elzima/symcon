@@ -2,9 +2,7 @@
     "status": [
         { "code": 102, "icon": "active", "caption": "Wartungsmodul SF ist aktiviert." },
         { "code": 200, "icon": "error", "caption": "Fehler" },
-        { "code": 104, "icon": "inactive", "caption": "Wartungsmodul SF ist deaktiviert." },
-        
-        { "type": "CheckBox", "name": "wartung_aktiv", "caption": "Wartungsmodul aktivieren" }
+        { "code": 104, "icon": "inactive", "caption": "Wartungsmodul SF ist deaktiviert." }
     ],
 
     "elements": [
@@ -14,6 +12,7 @@
 
     ],
     "actions": [
+        { "type": "CheckBox", "name": "wartung_aktiv", "caption": "Wartungsmodul aktivieren" },
         { "type": "Button", "caption": "CreateStatusInfo", "onClick": "SF_CreateStatusInfo($id);" }
     ]
 
