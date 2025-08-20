@@ -13,7 +13,7 @@ Beschreibung des Moduls.
 
 ### 1. Funktionsumfang
 
-*
+* Das Wartungsmodul sammelt informationen über Wartungsvorgänge (Updade, Änderungen, Backup, Datenbereinigung) und erstellt daraus Berichte.
 
 ### 2. Voraussetzungen
 
