@@ -1,0 +1,12 @@
+{
+    "id": "{E7B997CD-5208-9001-FBBB-5A9B266243BB}",
+    "name": "Backup",
+    "type": 0,
+    "vendor": "",
+    "aliases": [],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "SF",
+    "url": ""
+}
