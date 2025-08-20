@@ -1,0 +1,12 @@
+{
+    "id": "{5DF7F4FA-44B9-3B8D-B8FD-DA4A36B27449}",
+    "name": "HookDispatcher",
+    "type": 0,
+    "vendor": "Smart Facility GmbH",
+    "aliases": [],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "SF",
+    "url": ""
+}
