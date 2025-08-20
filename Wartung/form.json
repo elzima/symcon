@@ -10,7 +10,7 @@
 
     ],
     "actions": [
-        { "type": "Button", "caption": "Test", "onClick": "echo $id.', '.$IPS_GetKernelVersion.'';" }
+        { "type": "Button", "caption": "Test", "onClick": "echo $id.', '.IPS_GetKernelVersion.'';" }
     ]
 
 }
