@@ -12,7 +12,7 @@
 
     ],
     "actions": [
-        { "type": "Button", "caption": "CreateStatusInfo", "onClick": "SF_CreateStatusInfo(0);" }
+        { "type": "Button", "caption": "CreateStatusInfo", "onClick": "SF_CreateStatusInfo($id);" }
     ]
 
 }
