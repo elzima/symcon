@@ -1,7 +1,12 @@
 {
     "elements": [],
     "actions": [
-        { "type": "CheckBox", "name": "backup_aktiv", "caption": "Backup aktivieren" }
+        { "type": "CheckBox", "name": "backup_aktiv", "caption": "Backup aktivieren" },
+        {
+            "type": "Button",
+            "caption": "Symcon",
+            "onClick": "SF_CreateBackup();"
+        }
     ],
     "status": [
         { "code": 102, "icon": "active", "caption": "Backup ist aktiviert." },
