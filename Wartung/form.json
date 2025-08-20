@@ -10,7 +10,7 @@
 
     ],
     "actions": [
-        { "type": "Button", "caption": "Test", "onClick": "echo $id.', '.IPS_GetKernelVersion().'';" }
+        { "type": "Button", "caption": "Test", "onClick": "echo 'Runlevel: '.IPS_GetKernelRunlevel().PHP_EOL;echo 'Datum   : '.date('d.m.Y', IPS_GetKernelDate()).PHP_EOL;echo 'Version : '.IPS_GetKernelVersion().PHP_EOL;echo 'Revision: '.IPS_GetKernelRevision().PHP_EOL;echo 'Start   : '.date('d.m.Y H:i:s', IPS_GetKernelStartTime()).PHP_EOL;" }
     ]
 
 }
