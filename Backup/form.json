@@ -1,5 +1,11 @@
 {
     "elements": [],
-    "actions": [],
-    "status": []
+    "actions": [
+        { "type": "CheckBox", "name": "backup_aktiv", "caption": "Backup aktivieren" }
+    ],
+    "status": [
+        { "code": 102, "icon": "active", "caption": "Backup ist aktiviert." },
+        { "code": 200, "icon": "error", "caption": "Fehler" },
+        { "code": 104, "icon": "inactive", "caption": "Backup ist deaktiviert." }
+    ]
 }
