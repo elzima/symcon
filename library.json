@@ -1,12 +1,12 @@
 {
     "id": "{D37D8DEF-0DA0-1EEA-CC05-BB17BCD3F0B7}",
-    "name": "Marek Kretzschmar",
-    "author": "Smart Facility GmbH",
+    "name": "Smart Facility GmbH",
+    "author": "Marek Kretzschmar",
     "url": "https://www.smart-facility.com/",
     "compatibility": {
         "version": "7.1"
     },
-    "version": "1.0",
+    "version": "0.1",
     "build": 0,
     "date": 0
 }
