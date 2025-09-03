@@ -1,12 +1,12 @@
 {
     "id": "{D37D8DEF-0DA0-1EEA-CC05-BB17BCD3F0B7}",
-    "name": "Smart Facility GmbH",
-    "author": "Marek Kretzschmar",
+    "name": "Smart Facility Modules",
+    "author": "Smart Facility GmbH, Marek Kretzschmar",
     "url": "https://www.smart-facility.com/",
     "compatibility": {
         "version": "7.1"
     },
     "version": "0.1",
-    "build": 0,
-    "date": 0
+    "build": 1,
+    "date": 20250903
 }
